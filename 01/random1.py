@@ -14,6 +14,7 @@ a[-80:] = [random.choice(['t', 'g'])for _ in range(80)]
 random.shuffle(a[-200:])     #将倒数200个字母打乱
 
 print(a)
+print(a)
 
 
 
