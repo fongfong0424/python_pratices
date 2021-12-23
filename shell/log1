@@ -1,0 +1,18 @@
+=================================== short test summary info ===================================
+FAILED tests/mega/account/test_account.py::TestSubscribersDetails::test_get_account_bid_view
+FAILED tests/mega/account/test_personal_account.py::TestAppUsersSetting::test_app_users_setting_allot_admin
+FAILED tests/mega/account/test_personal_account.py::TestAppUsersSetting::test_app_users_setting_allot_admin2
+FAILED tests/mega/account/test_personal_account.py::TestAppUsersSetting::test_app_users_setting_crm
+FAILED tests/mega/account/test_personal_account.py::TestAppUsersSetting::test_app_users_setting_pl_style
+FAILED tests/mega/account/test_personal_account.py::TestAppUsersSetting::test_app_users_setting_pl_style2
+FAILED tests/mega/account/test_personal_account.py::TestAppUsersShow::test_app_users_show_base
+FAILED tests/mega/account/test_personal_account.py::TestAppUsersShow::test_app_users_show_free
+FAILED tests/mega/account/test_personal_account.py::TestAppUsersSubCreate::test_app_users_sub_create
+FAILED tests/mega/account/test_personal_account.py::TestAppUsersSubCreate::test_app_users_sub_create_base_out
+FAILED tests/mega/account/test_personal_account.py::TestAppUsersSubCreate::test_app_users_sub_create_base_to_free
+FAILED tests/mega/account/test_personal_account.py::TestAppUsersSubCreate::test_app_users_sub_create_free_to_base
+FAILED tests/mega/account/test_personal_account.py::TestAppUsersSubCreate::test_app_users_sub_create_mobile_error
+FAILED tests/mega/account/test_personal_account.py::TestAppUsersSubCreate::test_app_users_sub_create_mobile_none
+FAILED tests/mega/account/test_personal_account.py::TestUserBatchCreate::test_scenario_all
+FAILED tests/mega/account/test_personal_account.py::TestUserCreate::test_app_users_create_valid_fee
+==================== 16 failed, 71 passed, 2 skipped in 115.27s (0:01:55) =====================
